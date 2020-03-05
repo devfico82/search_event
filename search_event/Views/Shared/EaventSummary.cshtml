@@ -1,0 +1,15 @@
+﻿@model Eavent
+
+<div class="col-sm-6 col-md-4">
+    <div class="thumbnail" style="height: 400px;">
+        <img src="@Url.Content(@Model.PhotoPath)" alt="..." style="height: 200px; width: 300px;">
+        <div class="caption" data-maxlength="50">
+            <h3 style="height: 50px;">
+                @Model.Name
+            </h3>
+            <div class="block-with-text">
+                @Model.Description
+            </div>
+        </div>
+    </div>
+</div>

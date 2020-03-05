@@ -1,0 +1,11 @@
+C:\Users\Fico\source\repos\search_event\search_event\bin\Debug\netcoreapp2.0\search_event.deps.json
+C:\Users\Fico\source\repos\search_event\search_event\bin\Debug\netcoreapp2.0\search_event.runtimeconfig.json
+C:\Users\Fico\source\repos\search_event\search_event\bin\Debug\netcoreapp2.0\search_event.runtimeconfig.dev.json
+C:\Users\Fico\source\repos\search_event\search_event\bin\Debug\netcoreapp2.0\search_event.dll
+C:\Users\Fico\source\repos\search_event\search_event\bin\Debug\netcoreapp2.0\search_event.pdb
+C:\Users\Fico\source\repos\search_event\search_event\obj\Debug\netcoreapp2.0\search_event.csproj.CoreCompileInputs.cache
+C:\Users\Fico\source\repos\search_event\search_event\obj\Debug\netcoreapp2.0\search_event.AssemblyInfoInputs.cache
+C:\Users\Fico\source\repos\search_event\search_event\obj\Debug\netcoreapp2.0\search_event.AssemblyInfo.cs
+C:\Users\Fico\source\repos\search_event\search_event\obj\Debug\netcoreapp2.0\search_event.dll
+C:\Users\Fico\source\repos\search_event\search_event\obj\Debug\netcoreapp2.0\search_event.pdb
+C:\Users\Fico\source\repos\search_event\search_event\obj\Debug\netcoreapp2.0\search_event.csprojAssemblyReference.cache
